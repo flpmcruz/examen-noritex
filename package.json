@@ -1,0 +1,14 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "examen noritex",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Felipe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
